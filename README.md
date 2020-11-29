@@ -4,8 +4,11 @@ This is a really awesome website
 
 Update made on master on Github before rebase
 
-## Repository Purpose
+Repository Purpose
 
-This will be a change that conflicts 
-with whaterver  is on the remote side.
-This was edited locally.
+This is just a readme file.
+
+## Purpose
+
+The purpose of this is to provied examples
+on how to use Git and GitHub together
